@@ -1,0 +1,1 @@
+See [Installing Repo](http://source.android.com/source/downloading.html#installing-repo)
